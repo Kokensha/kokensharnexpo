@@ -71,7 +71,7 @@ DemoStack.navigationOptions = {
 
 export default createBottomTabNavigator({
   HomeStack,
+  DemoStack,
   LinksStack,
   SettingsStack,
-  DemoStack,
 });
