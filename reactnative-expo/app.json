@@ -1,16 +1,18 @@
 {
   "expo": {
-    "name": "kokensha react native sample",
-    "slug": "kokensharnexpo",
+    "name": "Tab Navigation Template",
+    "slug": "reactnative-expo",
     "privacy": "public",
-    "sdkVersion": "35.0.0",
+    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
-      "android"
+      "android",
+      "web"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
